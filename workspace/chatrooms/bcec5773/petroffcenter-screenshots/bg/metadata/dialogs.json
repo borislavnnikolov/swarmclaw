@@ -1,0 +1,2204 @@
+{
+  "notes": [
+    {
+      "label": "Roles add role form",
+      "url": "https://staging.center.petroffsoft.bg/Roles",
+      "screenshot": "14-Roles-add-role-form.png",
+      "text": "Добави нова роля\n\nВъведи данни за ролята!\n\nИме\nОписание\n\nПрава\n\nОсновен достъп\n\nДостъп чрез код\n\nСъздаване на заявка за промяна на контрагент\n\nПрави плащания\n\nДостъп до фактури\n\nАдминистратор\n\nСистемен администратор\n\nСторнира поръчки във Friday чрез външни системи\n\nСъздава сметки в Capella чрез външни системи\n\nОткажи\nДобави\nРоли\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДобави роля\nИме\nПрава\nОписание\nТърси\n\t\nИме\n\t\nПрава\n\t\nОписание\n\n\nБазова роля за достъп PetroffSoft\tАдминистратор\t\n\nPetroffSoft System Administrator\tСистемен администратор\tThis is system generated role for administration for this company.\n\nСервитьор\tДостъп чрез код\t\n\n\nRows per page:\n\n10\n\n1-3 of 3\n\n \n \n \n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Име",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Описание",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Търси по име",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Основен достъп",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Достъп чрез код",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Създаване на заявка за промяна на контрагент",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Прави плащания",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Достъп до фактури",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Администратор",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Системен администратор",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Сторнира поръчки във Friday чрез външни системи",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "Създава сметки в Capella чрез външни системи",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Откажи",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Добави",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Роли",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Добави роля",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Име",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Права",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Описание",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Търси",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Taxes add tax form",
+      "url": "https://staging.center.petroffsoft.bg/Taxes",
+      "screenshot": "15-Taxes-add-tax-form.png",
+      "text": "Име\n<НЕОПРЕДЕЛЕН>\nТип такса\nСтойност\nСчетоводен код\nОткажи\nЗапази\nТакси\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДобави такса\nИме\nТип такса\nСтойност\nСчетоводен код\nТърси\n\t\nИме\n\t\nТип такса\n\t\nСтойност\n\t\nСчетоводен код\n\n\n20%\tПроцент данък\t20,000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Име",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "<НЕОПРЕДЕЛЕН>\nТип такса",
+          "value": "NONE",
+          "disabled": false
+        },
+        {
+          "label": "Стойност",
+          "value": "0",
+          "disabled": false
+        },
+        {
+          "label": "Счетоводен код",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Откажи",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Такси",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Добави такса",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Име",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Тип такса",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Стойност",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Счетоводен код",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Търси",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "System configuration add form",
+      "url": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+      "screenshot": "16-System-configuration-add-form.png",
+      "text": "Ключ\nСтойност\nОткажи\nЗапази\nСистемни Конфигурации\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДобави конфигурация на системата\nКлюч\n \nСтойност\n\t\nКлюч\n\t\nСтойност\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999\n\n\nRows per page:\n\n10\n\n1-10 of 42\n\n \n \n \n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Ключ",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Стойност",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Откажи",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Системни Конфигурации",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Добави конфигурация на системата",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Ключ",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Стойност",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Companies add company form",
+      "url": "https://staging.center.petroffsoft.bg/Company/0",
+      "screenshot": "17-Companies-add-company-form.png",
+      "text": "Добави компания\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nКОМПАНИЯ\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nДобави нова фирма\n\nВажно е да въведете коректни и пълни данни за фирмата си. PetroffSoft ще използва тези данни, за да издава фактури за вашите абонаменти.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Име",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Булстат",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "ДДС номер",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Държава",
+          "value": "БЪЛГАРИЯ",
+          "disabled": false
+        },
+        {
+          "label": "Часова зона",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "label": "Адрес",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Материално отговорно лице (МОЛ)",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Банка",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "IBAN",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "BIC",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Телефонен номер",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Електронна поща",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Добави компания",
+          "href": "https://staging.center.petroffsoft.bg/Companies",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Откажи",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Profile edit",
+      "url": "https://staging.center.petroffsoft.bg/Profile",
+      "screenshot": "18-Profile-edit.png",
+      "text": "Редакция\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nМП\nПрикачи снимка\n\nИме\nПотребителско име\nТелефонен номер\nЕлектронна поща\nМъж\nПол\nКод в счетоводен софтуер\nKoд на оператор\nКод за достъп\nДопълнителна информация\nЗапази\nСмяна на парола\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Име",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "label": "Потребителско име",
+          "value": "petroffsoft",
+          "disabled": false
+        },
+        {
+          "label": "Телефонен номер",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "label": "Електронна поща",
+          "value": "support@petroffsoft.bg",
+          "disabled": true
+        },
+        {
+          "label": "Мъж\nПол",
+          "value": "MALE",
+          "disabled": false
+        },
+        {
+          "label": "Код в счетоводен софтуер",
+          "value": "987",
+          "disabled": false
+        },
+        {
+          "label": "Koд на оператор",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Код за достъп",
+          "value": "258456",
+          "disabled": false
+        },
+        {
+          "label": "Допълнителна информация",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Редакция",
+          "href": "https://staging.center.petroffsoft.bg/Profile",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Смяна на парола",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Tax configuration create page",
+      "url": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+      "screenshot": "19-Tax-configuration-create-page.png",
+      "text": "Елементи от конфигурационната такса\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nИме\nТаг\nValue1#Value2#Value3\n<Неопределен>\nФискална група\nЗапази\nДобави такса\nТакса\nПриоритет\nТърси\n\t\nТакса\n\t\nПриоритет\n\t\nТип такса\n\t\nСтойност\n\t\nСчетоводен код\n\n\n\nRows per page:\n\n10\n\n0-0 of 0\n\n \n \n \n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Име",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Таг\nValue1#Value2#Value3",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "<Неопределен>\nФискална група",
+          "value": "Unspecified",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Елементи от конфигурационната такса",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Добави такса",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Такса",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Приоритет",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Търси",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Tax configuration detail page",
+      "url": "https://staging.center.petroffsoft.bg/TaxConfiguration/1",
+      "screenshot": "20-Tax-configuration-detail-page.png",
+      "text": "Елементи от конфигурационната такса\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nAn unhandled error has occurred. Reload\n🗙\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Елементи от конфигурационната такса",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Reload",
+          "href": "https://staging.center.petroffsoft.bg/",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "🗙",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Company detail page",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "21-Company-detail-page.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Име",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "label": "Булстат",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "label": "ДДС номер",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "label": "Държава",
+          "value": "БЪЛГАРИЯ",
+          "disabled": false
+        },
+        {
+          "label": "Часова зона",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "label": "Адрес",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "label": "Материално отговорно лице (МОЛ)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "label": "Банка",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "label": "IBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "label": "BIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "label": "Телефонен номер",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "label": "Електронна поща",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "label": "Търси потребител по име, потребителско име или email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Откажи",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Запази",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Payment details page",
+      "url": "https://staging.center.petroffsoft.bg/PaymentDetails/1",
+      "screenshot": "22-Payment-details-page.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДетайли за плащането\n109,00ЕВРО\nСтатус на плащането:\nИзчакващо\n\nНачин на плащане:\n\nEpay\n\nОписание:\n\nИзвестител Кредита:Бизнес\n\nB Code:\n\nPayment STAN:\n\nСъздадено на:\n\n27.02.2026 г. 16:21:35 ч.\n\nНазад\nИздай фактура\n\nПолитика за плащания, отказ и възстановяване\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Назад",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Издай фактура",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Политика за плащания, отказ и възстановяване",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Contragent update request detail page",
+      "url": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests/1",
+      "screenshot": "23-Contragent-update-request-detail-page.png",
+      "text": "Заявки за промяна на контрагент\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nКонтрагент\nСтатус на заявка (1)\n \n×\nТърси\n\t\nИме\n\t\nСтатус на заявка\n\t\nДата\n1\n\t\nСъздател на заявката\n\t\nКомпания подала заявката\n\t\nДата на обработка\n\t\nОбработил заявката\n\n\nКАУФЛАНД\t\nВ изчакване\n\t8.12.2025 г. 14:11:01 ч.\tМартин Петров\tNikoloffSoft Ltd.\t8.12.2025 г. 14:11:01 ч.\tМартин Петров\n\n#\tДетайли на контрагент\tЗаявени промени\nБулстат:\t\t667443997\n\n\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Заявки за промяна на контрагент",
+          "href": "https://staging.center.petroffsoft.bg/ContragentUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Контрагент",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Статус на заявка (1)",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "×",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Търси",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Change password page",
+      "url": "https://staging.center.petroffsoft.bg/ChangePassword",
+      "screenshot": "24-Change-password-page.png",
+      "text": "Смяна на парола\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nСтара парола\nНова парола\nПовтори нова парола!\nСмяна на парола\nИзчисти\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Стара парола",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Нова парола",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Повтори нова парола!",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Смяна на парола",
+          "href": "https://staging.center.petroffsoft.bg/ChangePassword",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Смяна на парола",
+          "href": "",
+          "visible": true,
+          "disabled": true
+        },
+        {
+          "text": "Изчисти",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Payment error page",
+      "url": "https://staging.center.petroffsoft.bg/PaymentError",
+      "screenshot": "25-Payment-error-page.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nSorry, there's nothing at this address.\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "fields": [],
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Successful payment page",
+      "url": "https://staging.center.petroffsoft.bg/Dashboard",
+      "screenshot": "26-Successful-payment-page.png",
+      "text": "Табло\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nМП\nМартин Петров\n\nsupport@petroffsoft.bg\n\nPetroffSoft Ltd.\n\nгр. Враца, ул. Цар Борис 1, №12\n\nЗаявки за промяна на контрагент\n\nОдобряване или отхвърляне на заявки за промяна на контрагенти.\n\nРоли\n\nСъздаване, редактиране или изтриване на роли и управление на правата им.\n\nТакси\n\nСъздаване, редактиране или изтриване такси.\n\nКонфигурации на такси\n\nСъздаване, редактиране или изтриване конфигурации на такси.\n\nСистемни Конфигурации\n\nСъздаване, редактиране или изтриване конфигурации на системата.\n\nПлащания\n\nВижте минали и текущи плащания\n\nКомпании\n\nСъздаване, редактиране на компании и управление на ролите им.\n\nФактури\n\nОписание на фактури\n\nИзход\n\nИзлизане от профила.\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Табло",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Заявки за промяна на контрагент\n\nОдобряване или отхвърляне на заявки за промяна на контрагенти.",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Роли\n\nСъздаване, редактиране или изтриване на роли и управление на правата им.",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Такси\n\nСъздаване, редактиране или изтриване такси.",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Конфигурации на такси\n\nСъздаване, редактиране или изтриване конфигурации на такси.",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Системни Конфигурации\n\nСъздаване, редактиране или изтриване конфигурации на системата.",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Плащания\n\nВижте минали и текущи плащания",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Компании\n\nСъздаване, редактиране на компании и управление на ролите им.",
+          "href": "https://staging.center.petroffsoft.bg/Companies",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Фактури\n\nОписание на фактури",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Изход\n\nИзлизане от профила.",
+          "href": "https://staging.center.petroffsoft.bg/SignOut",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "Canceled payment page",
+      "url": "https://staging.center.petroffsoft.bg/Dashboard",
+      "screenshot": "27-Canceled-payment-page.png",
+      "text": "Табло\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nМП\nМартин Петров\n\nsupport@petroffsoft.bg\n\nPetroffSoft Ltd.\n\nгр. Враца, ул. Цар Борис 1, №12\n\nЗаявки за промяна на контрагент\n\nОдобряване или отхвърляне на заявки за промяна на контрагенти.\n\nРоли\n\nСъздаване, редактиране или изтриване на роли и управление на правата им.\n\nТакси\n\nСъздаване, редактиране или изтриване такси.\n\nКонфигурации на такси\n\nСъздаване, редактиране или изтриване конфигурации на такси.\n\nСистемни Конфигурации\n\nСъздаване, редактиране или изтриване конфигурации на системата.\n\nПлащания\n\nВижте минали и текущи плащания\n\nКомпании\n\nСъздаване, редактиране на компании и управление на ролите им.\n\nФактури\n\nОписание на фактури\n\nИзход\n\nИзлизане от профила.\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        {
+          "label": "Напиши съобщение...",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "controls": [
+        {
+          "text": "Табло",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Заявки за промяна на контрагент\n\nОдобряване или отхвърляне на заявки за промяна на контрагенти.",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Роли\n\nСъздаване, редактиране или изтриване на роли и управление на правата им.",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Такси\n\nСъздаване, редактиране или изтриване такси.",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Конфигурации на такси\n\nСъздаване, редактиране или изтриване конфигурации на такси.",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Системни Конфигурации\n\nСъздаване, редактиране или изтриване конфигурации на системата.",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Плащания\n\nВижте минали и текущи плащания",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Компании\n\nСъздаване, редактиране на компании и управление на ролите им.",
+          "href": "https://staging.center.petroffsoft.bg/Companies",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Фактури\n\nОписание на фактури",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Изход\n\nИзлизане от профила.",
+          "href": "https://staging.center.petroffsoft.bg/SignOut",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Общи условия",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        },
+        {
+          "text": "Помощ?\n●",
+          "href": "",
+          "visible": true,
+          "disabled": false
+        }
+      ]
+    }
+  ]
+}

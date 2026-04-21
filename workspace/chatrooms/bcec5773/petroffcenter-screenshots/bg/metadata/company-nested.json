@@ -1,0 +1,314 @@
+{
+  "notes": [
+    {
+      "name": "Company details tab",
+      "screenshot": "28-Company-details-tab.png",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        "Име",
+        "Булстат",
+        "ДДС номер",
+        "Държава",
+        "Часова зона",
+        "Адрес",
+        "Материално отговорно лице (МОЛ)",
+        "Банка",
+        "IBAN",
+        "BIC",
+        "Телефонен номер",
+        "Електронна поща",
+        "Търси потребител по име, потребителско име или email",
+        "10",
+        "10",
+        "Напиши съобщение..."
+      ],
+      "controls": [
+        {
+          "text": "ДЕТАЙЛИ ЗА PETROFFSOFT LTD.",
+          "visible": true
+        },
+        {
+          "text": "ПОТРЕБИТЕЛИ",
+          "visible": true
+        },
+        {
+          "text": "УСТРОЙСТВА",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Откажи",
+          "visible": true
+        },
+        {
+          "text": "Запази",
+          "visible": true
+        },
+        {
+          "text": "Общи условия",
+          "visible": true
+        },
+        {
+          "text": "Помощ?\n●",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "Company ПОТРЕБИТЕЛИ tab",
+      "screenshot": "29-Company-ПОТРЕБИТЕЛИ-tab.png",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        "Име",
+        "Булстат",
+        "ДДС номер",
+        "Държава",
+        "Часова зона",
+        "Адрес",
+        "Материално отговорно лице (МОЛ)",
+        "Банка",
+        "IBAN",
+        "BIC",
+        "Телефонен номер",
+        "Електронна поща",
+        "Търси потребител по име, потребителско име или email",
+        "10",
+        "10",
+        "Напиши съобщение..."
+      ],
+      "controls": [
+        {
+          "text": "ДЕТАЙЛИ ЗА PETROFFSOFT LTD.",
+          "visible": true
+        },
+        {
+          "text": "ПОТРЕБИТЕЛИ",
+          "visible": true
+        },
+        {
+          "text": "УСТРОЙСТВА",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Откажи",
+          "visible": true
+        },
+        {
+          "text": "Запази",
+          "visible": true
+        },
+        {
+          "text": "Общи условия",
+          "visible": true
+        },
+        {
+          "text": "Помощ?\n●",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "Company ПОТРЕБИТЕЛИ Добави потребител",
+      "screenshot": "30-Company-ПОТРЕБИТЕЛИ-Добави-потребител.png",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        "Име",
+        "Булстат",
+        "ДДС номер",
+        "Държава",
+        "Часова зона",
+        "Адрес",
+        "Материално отговорно лице (МОЛ)",
+        "Банка",
+        "IBAN",
+        "BIC",
+        "Телефонен номер",
+        "Електронна поща",
+        "Търси потребител по име, потребителско име или email",
+        "10",
+        "10",
+        "Напиши съобщение..."
+      ],
+      "controls": [
+        {
+          "text": "ДЕТАЙЛИ ЗА PETROFFSOFT LTD.",
+          "visible": true
+        },
+        {
+          "text": "ПОТРЕБИТЕЛИ",
+          "visible": true
+        },
+        {
+          "text": "УСТРОЙСТВА",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Откажи",
+          "visible": true
+        },
+        {
+          "text": "Запази",
+          "visible": true
+        },
+        {
+          "text": "Общи условия",
+          "visible": true
+        },
+        {
+          "text": "Помощ?\n●",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "Company УСТРОЙСТВА tab",
+      "screenshot": "31-Company-УСТРОЙСТВА-tab.png",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        "Име",
+        "Булстат",
+        "ДДС номер",
+        "Държава",
+        "Часова зона",
+        "Адрес",
+        "Материално отговорно лице (МОЛ)",
+        "Банка",
+        "IBAN",
+        "BIC",
+        "Телефонен номер",
+        "Електронна поща",
+        "Търси потребител по име, потребителско име или email",
+        "10",
+        "10",
+        "Напиши съобщение..."
+      ],
+      "controls": [
+        {
+          "text": "ДЕТАЙЛИ ЗА PETROFFSOFT LTD.",
+          "visible": true
+        },
+        {
+          "text": "ПОТРЕБИТЕЛИ",
+          "visible": true
+        },
+        {
+          "text": "УСТРОЙСТВА",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Откажи",
+          "visible": true
+        },
+        {
+          "text": "Запази",
+          "visible": true
+        },
+        {
+          "text": "Общи условия",
+          "visible": true
+        },
+        {
+          "text": "Помощ?\n●",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "Company УСТРОЙСТВА Добави потребител",
+      "screenshot": "32-Company-УСТРОЙСТВА-Добави-потребител.png",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nДЕТАЙЛИ ЗА PETROFFSOFT LTD.\nПОТРЕБИТЕЛИ\nУСТРОЙСТВА\nРедакция PetroffSoft Ltd.\n\nВъведи данни за фирмата!\n\nДанни за фирмата\n\nПрикачи снимка\n\nИме\nБулстат\nДДС номер\nДържава\nЧасова зона\nАдрес\nМатериално отговорно лице (МОЛ)\n\nБанкова сметка\n\nВъведи информация за банковата сметка на контрагента\n\nБанка\nIBAN\nBIC\n\nКонтакти\n\nВъведи данни за контакти!\n\nТелефонен номер\nЕлектронна поща\nОткажи\nЗапази\n\nОбщи условия\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.\n\nПомощ?\n●\nПомощ\nИмате въпрос? Задайте го отдолу.\nPowered by Chatlio",
+      "fields": [
+        "Име",
+        "Булстат",
+        "ДДС номер",
+        "Държава",
+        "Часова зона",
+        "Адрес",
+        "Материално отговорно лице (МОЛ)",
+        "Банка",
+        "IBAN",
+        "BIC",
+        "Телефонен номер",
+        "Електронна поща",
+        "Търси потребител по име, потребителско име или email",
+        "10",
+        "10",
+        "Напиши съобщение..."
+      ],
+      "controls": [
+        {
+          "text": "ДЕТАЙЛИ ЗА PETROFFSOFT LTD.",
+          "visible": true
+        },
+        {
+          "text": "ПОТРЕБИТЕЛИ",
+          "visible": true
+        },
+        {
+          "text": "УСТРОЙСТВА",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "visible": true
+        },
+        {
+          "text": "Откажи",
+          "visible": true
+        },
+        {
+          "text": "Запази",
+          "visible": true
+        },
+        {
+          "text": "Общи условия",
+          "visible": true
+        },
+        {
+          "text": "Помощ?\n●",
+          "visible": true
+        }
+      ]
+    }
+  ]
+}

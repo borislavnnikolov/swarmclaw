@@ -1,0 +1,3961 @@
+{
+  "notes": [
+    {
+      "label": "Dashboard",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Dashboard",
+      "screenshot": "02-Dashboard.png",
+      "text": "Dashboard\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nМП\nМартин Петров\n\nsupport@petroffsoft.bg\n\nPetroffSoft Ltd.\n\nгр. Враца, ул. Цар Борис 1, №12\n\nContragent update requests\n\nApprove or reject contragent update requests.\n\nRoles\n\nCreate, edit or delete roles and manage their permissions.\n\nTaxes\n\nCreate, edit or delete taxes.\n\nTax configurations\n\nCreate, edit or delete tax configurations.\n\nSystem Configurations\n\nCreate, edit or delete system configurations.\n\nPayments\n\nSee previous and current payments\n\nCompanies\n\nCreate, edit companies and manage their roles.\n\nInvoices\n\nInvocies description\n\nSign out\n\nSign out from your profile.\n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Dashboard",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Contragent update requests\n\nApprove or reject contragent update requests.",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Roles\n\nCreate, edit or delete roles and manage their permissions.",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Taxes\n\nCreate, edit or delete taxes.",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Tax configurations\n\nCreate, edit or delete tax configurations.",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "System Configurations\n\nCreate, edit or delete system configurations.",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Payments\n\nSee previous and current payments",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Companies\n\nCreate, edit companies and manage their roles.",
+          "href": "https://staging.center.petroffsoft.bg/Companies",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Invoices\n\nInvocies description",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Sign out\n\nSign out from your profile.",
+          "href": "https://staging.center.petroffsoft.bg/SignOut",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [],
+      "tables": []
+    },
+    {
+      "label": "ContragentsUpdateRequests",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+      "screenshot": "03-ContragentsUpdateRequests.png",
+      "text": "Contragent update requests\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nContragent\nRequest status (1)\n \n×\nSearch\n\t\n\t\nName\n\t\nRequest status\n\t\nDate\n1\n\t\nCreator user name\n\t\nContragent requester\n\t\nProcessing date\n\t\nProcessed the request\n\n\n\t\nКАУФЛАНД\t\nPending\n\t12/8/2025 2:11:01 PM\tМартин Петров\tNikoloffSoft Ltd.\t12/8/2025 2:11:01 PM\tМартин Петров\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Contragent update requests",
+          "href": "https://staging.center.petroffsoft.bg/ContragentUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Contragent",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Request status (1)",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "×",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nRequest status\n\t\nDate\n1\n\t\nCreator user name\n\t\nContragent requester\n\t\nProcessing date\n\t\nProcessed the request\n\n\n\t\nКАУФЛАНД\t\nPending\n\t12/8/2025 2:11:01 PM\tМартин Петров\tNikoloffSoft Ltd.\t12/8/2025 2:11:01 PM\tМартин Петров\n\n\nRows per page:\n\n10\n\n1-1 of 1",
+        "Name\n\t\nRequest status\n\t\nDate\n1\n\t\nCreator user name\n\t\nContragent requester\n\t\nProcessing date\n\t\nProcessed the request\n\n\n\t\nКАУФЛАНД\t\nPending\n\t12/8/2025 2:11:01 PM\tМартин Петров\tNikoloffSoft Ltd.\t12/8/2025 2:11:01 PM\tМартин Петров"
+      ]
+    },
+    {
+      "label": "Roles",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Roles",
+      "screenshot": "04-Roles.png",
+      "text": "Roles\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd role\nName\nPermission\nDescription\nSearch\n\t\nName\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code\t\n\n\nRows per page:\n\n10\n\n1-3 of 3\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Roles",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add role",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Permission",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Description",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code\t\n\n\nRows per page:\n\n10\n\n1-3 of 3",
+        "Name\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code"
+      ]
+    },
+    {
+      "label": "Taxes",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Taxes",
+      "screenshot": "05-Taxes.png",
+      "text": "Taxes\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd tax\nName\nTax type\nValue\nAccounting code\nSearch\n\t\nName\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Taxes",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Tax type",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Value",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Accounting code",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1",
+        "Name\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000"
+      ]
+    },
+    {
+      "label": "TaxConfigurations",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+      "screenshot": "06-TaxConfigurations.png",
+      "text": "Add tax configuration\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nName\nSearch\n\nAdd tax configuration\n\n20% ДДС\n\nItems per page\n\n5\n\n1-1/1\n\n \n\n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Add tax configuration",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Add tax configuration",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "20% ДДС",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration/10",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "5",
+          "value": "5",
+          "disabled": false
+        }
+      ],
+      "tables": []
+    },
+    {
+      "label": "SystemConfigurations",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+      "screenshot": "07-SystemConfigurations.png",
+      "text": "System Configurations\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd system configuration\nKey\n \nValue\n\t\nKey\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999\n\n\nRows per page:\n\n10\n\n1-10 of 42\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "System Configurations",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add system configuration",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Key",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Value",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Key\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999\n\n\nRows per page:\n\n10\n\n1-10 of 42",
+        "Key\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999"
+      ]
+    },
+    {
+      "label": "Payments",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Payments",
+      "screenshot": "08-Payments.png",
+      "text": "Payments\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\n№\tAmount\tPayment Status\tPaid on\tReason\tRequest status\tTransaction Type\n1\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n2\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEASYPAY\t\nDetails\nSave\n\n3\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n51\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n52\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n53\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n1-6 of 6\n \n \n \n\nPayment, Cancellation, and Refund Policy\n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Payments",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Details",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Payment, Cancellation, and Refund Policy",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Pending",
+          "value": "PENDING",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "№\tAmount\tPayment Status\tPaid on\tReason\tRequest status\tTransaction Type\n1\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n2\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEASYPAY\t\nDetails\nSave\n\n3\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n51\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n52\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n53\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n1-6 of 6",
+        "№\tAmount\tPayment Status\tPaid on\tReason\tRequest status\tTransaction Type\n1\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n2\t109.000\t\nPending\n\t\tИзвестител Кредита:Бизнес\t<UNKNOWN>\tEASYPAY\t\nDetails\nSave\n\n3\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n51\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n52\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave\n\n53\t32.000\t\nPending\n\t\tИзвестител Кредита:Начален\t<UNKNOWN>\tEPAY\t\nDetails\nSave"
+      ]
+    },
+    {
+      "label": "Companies",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Companies",
+      "screenshot": "09-Companies.png",
+      "text": "Companies\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nName\nBulstat\nOthers\n\nPetroffSoft Ltd.\n\nгр. Враца, ул. Цар Борис 1, №12\n\nNikoloffSoft Ltd.\n\npacho co.\n\nktest\n\nТест\n\nAdd company\n\nItems per page\n\n5\n\n1-2/9\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Companies",
+          "href": "https://staging.center.petroffsoft.bg/Companies",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Bulstat",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Others",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "PetroffSoft Ltd.\n\nгр. Враца, ул. Цар Борис 1, №12",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "NikoloffSoft Ltd.",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "pacho co.",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "ktest",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Тест",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Add company",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "5",
+          "value": "5",
+          "disabled": false
+        }
+      ],
+      "tables": []
+    },
+    {
+      "label": "Roles-add-role-form",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Roles",
+      "screenshot": "14-Roles-add-role-form.png",
+      "text": "Add new role\n\nEnter data for role\n\nName\nDescription\n\nPermission\n\nMain access\n\nAccess code\n\nCreate contragent update requests\n\nMake payments\n\nAccess invoices\n\nAdministrator\n\nSys admin\n\nReverses Friday orders from external systems\n\nCreates Capella bills from external systems\n\nCancel\nAdd\nRoles\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd role\nName\nPermission\nDescription\nSearch\n\t\nName\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code\t\n\n\nRows per page:\n\n10\n\n1-3 of 3\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Cancel",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Add",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Roles",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add role",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Permission",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Description",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": "text",
+          "label": "Description",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search by name",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Main access",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Access code",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Create contragent update requests",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Make payments",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Access invoices",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Administrator",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Sys admin",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Reverses Friday orders from external systems",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "label": "Creates Capella bills from external systems",
+          "value": "on",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code\t\n\n\nRows per page:\n\n10\n\n1-3 of 3",
+        "Name\n\t\nPermission\n\t\nDescription\n\n\nБазова роля за достъп PetroffSoft\tAdministrator\t\n\nPetroffSoft System Administrator\tSys admin\tThis is system generated role for administration for this company.\n\nСервитьор\tAccess code"
+      ]
+    },
+    {
+      "label": "Taxes-add-tax-form",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Taxes",
+      "screenshot": "15-Taxes-add-tax-form.png",
+      "text": "Name\n<UNKNOWN>\nTax type\nValue\nAccounting code\nCancel\nSave\nTaxes\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd tax\nName\nTax type\nValue\nAccounting code\nSearch\n\t\nName\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Cancel",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Taxes",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Tax type",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Value",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Accounting code",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "<UNKNOWN>\nTax type",
+          "value": "NONE",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Value",
+          "value": "0",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accounting code",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1",
+        "Name\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\tAdd percent\t20.000"
+      ]
+    },
+    {
+      "label": "System-configuration-add-form",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+      "screenshot": "16-System-configuration-add-form.png",
+      "text": "Key\nValue\nCancel\nSave\nSystem Configurations\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nAdd system configuration\nKey\n \nValue\n\t\nKey\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999\n\n\nRows per page:\n\n10\n\n1-10 of 42\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Cancel",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "System Configurations",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add system configuration",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Key",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Value",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Key",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": "text",
+          "label": "Value",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Key\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999\n\n\nRows per page:\n\n10\n\n1-10 of 42",
+        "Key\n\t\nValue\n\n\nCapellaPrintServiceBaseUrlAddress:1\thttp://192.168.0.166:7879/api/v1/\n\nCapellaNSSINightsCount:1\t10\n\nCapellaIsBedSupportAvailable:1\ttrue\n\nCapellaIsSubsidizedSupportAvailable:1\ttrue\n\nCapellaCiphersPrefix:1\t26\n\nCapellaVATOperationName:1\tОПДДС\n\nCapellaDefaultContragentIDNumber:1\t999999999\n\nCapellaVATSumUpOperationName:1\tДДСПР\n\nCapellaSellDocumentCode:1\t202\n\nCapellaTerminationDocumentCode:1\t999"
+      ]
+    },
+    {
+      "label": "Profile-edit",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Profile",
+      "screenshot": "18-Profile-edit.png",
+      "text": "Edit\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nМП\nUpload picture\n\nName\nUsername\nPhone number\nEmail\nMale\nGender\nAccounting user code\nPOS Number\nAccess code\nAdditional info\nSave\nChange password\n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Edit",
+          "href": "https://staging.center.petroffsoft.bg/Profile",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Change password",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Username",
+          "value": "petroffsoft",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Email",
+          "value": "support@petroffsoft.bg",
+          "disabled": true
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Male\nGender",
+          "value": "MALE",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accounting user code",
+          "value": "987",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "number",
+          "label": "POS Number",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "label": "Access code",
+          "value": "258456",
+          "disabled": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": "text",
+          "label": "Additional info",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "tables": []
+    },
+    {
+      "label": "Tax-configuration-create-page",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+      "screenshot": "19-Tax-configuration-create-page.png",
+      "text": "Tax configuration items\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nName\nTag\nValue1#Value2#Value3\n<Undefined>\nFiscal Group\nSave\nAdd tax\nTax\nPriorty\nSearch\n\t\nTax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n\nRows per page:\n\n10\n\n0-0 of 0\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Tax configuration items",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Add tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Priorty",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Tag\nValue1#Value2#Value3",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "<Undefined>\nFiscal Group",
+          "value": "Unspecified",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Tax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n\nRows per page:\n\n10\n\n0-0 of 0",
+        "Tax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code"
+      ]
+    },
+    {
+      "label": "Tax-configuration-detail-page-10",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/TaxConfiguration/10",
+      "screenshot": "20-Tax-configuration-detail-page-10.png",
+      "text": "Tax configuration items\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nName\nTag\nValue1#Value2#Value3\nGroup 2\nFiscal Group\nSave\nAdd tax\nTax\nPriorty\nSearch\n\t\nTax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\t0\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Tax configuration items",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfiguration",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Add tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Tax",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Priorty",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "20% ДДС",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Tag\nValue1#Value2#Value3",
+          "value": "#1#2#3",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "Group 2\nFiscal Group",
+          "value": "TaxGroup2",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Tax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\t0\tAdd percent\t20.000\t\n\n\nRows per page:\n\n10\n\n1-1 of 1",
+        "Tax\n\t\nPriorty\n\t\nTax type\n\t\nValue\n\t\nAccounting code\n\n\n20%\t0\tAdd percent\t20.000"
+      ]
+    },
+    {
+      "label": "Change-password-page",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/ChangePassword",
+      "screenshot": "23-Change-password-page.png",
+      "text": "Change password\n\nPetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nOld password\nNew password\nRepeat new password\nChange password\nClear\n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "Change password",
+          "href": "https://staging.center.petroffsoft.bg/ChangePassword",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Change password",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "label": "Old password",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "label": "New password",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "label": "Repeat new password",
+          "value": "",
+          "disabled": false
+        }
+      ],
+      "tables": []
+    },
+    {
+      "label": "Company-details-tab",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "27-Company-details-tab.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nDETAILS FOR PETROFFSOFT LTD.\nUSERS\nDEVICES\nEdit PetroffSoft Ltd.\n\nEnter data for company\n\nData for company\n\nUpload picture\n\nName\nBulstat\nVAT registration number\nCountry\nTime zone\nAddress\nAccountable person (АP)\n\nBank account\n\nEnter data about bank account of contragent\n\nBank name\nIBAN\nBIC\n\nContacts\n\nEnter data about contacts\n\nPhone number\nEmail\nCancel\nSave\n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Clear",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Cancel",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Save",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Name",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bulstat",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "VAT registration number",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Country",
+          "value": "BULGARIA",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Time zone",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Address",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accountable person (АP)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bank name",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "IBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Email",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search user by name, username or email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         \n                            Rows per page\n        10\n    \n\n1-2 of 2",
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft",
+        "Description0\n        \n                            \n                            Rows per page\n        10\n    \n\n0-0 of 0",
+        "Description0"
+      ]
+    },
+    {
+      "label": "Company-Users-tab",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "28-Company-Users-tab.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nDETAILS FOR PETROFFSOFT LTD.\nUSERS\nDEVICES\nSearch\nAdd user\nUsers\nName\nUsername\nEmail\nEmployee position\nPOS Number\nRoles\nSearch\nName\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\n\n\nRows per page\n\n10\n\n1-2 of 2\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add user",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Username",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Email",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Employee position",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "POS Number",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Roles",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "NameName",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BulstatBulstat",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "VAT registration numberVAT registration number",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "CountryCountry",
+          "value": "BULGARIA",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Time zoneTime zone",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "AddressAddress",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accountable person (АP)Accountable person (АP)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bank nameBank name",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "IBANIBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BICBIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone numberPhone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "EmailEmail",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search user by name, username or email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\n\n\nRows per page\n\n10\n\n1-2 of 2",
+        "Name\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft",
+        "Description0\n        \n                            \n                            Rows per page\n        10\n    \n\n0-0 of 0",
+        "Description0"
+      ]
+    },
+    {
+      "label": "Company-Users-add-user-dialog",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "29-Company-Users-add-user-dialog.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nDETAILS FOR PETROFFSOFT LTD.\nUSERS\nDEVICES\nSearch\nAdd user\nUsers\nName\nUsername\nEmail\nEmployee position\nPOS Number\nRoles\nSearch\nName\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\n\n\nRows per page\n\n10\n\n1-2 of 2\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add user",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Name",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Username",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Email",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Employee position",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "POS Number",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Roles",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "NameName",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BulstatBulstat",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "VAT registration numberVAT registration number",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "CountryCountry",
+          "value": "BULGARIA",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Time zoneTime zone",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "AddressAddress",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accountable person (АP)Accountable person (АP)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bank nameBank name",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "IBANIBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BICBIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone numberPhone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "EmailEmail",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search user by name, username or email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\n\n\nRows per page\n\n10\n\n1-2 of 2",
+        "Name\n\t\nEmail\n\t\nEmployee position\n\t\nRoles\n\t\n\nBorislav Nikolov\tborislav.nikolov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft\t\n\nМартин Петров\tmartin.petrov@petroffsoft.bg\tТЕСТ\tБазова роля за достъп PetroffSoft",
+        "Description0\n        \n                            \n                            Rows per page\n        10\n    \n\n0-0 of 0",
+        "Description0"
+      ]
+    },
+    {
+      "label": "Company-Devices-tab",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "30-Company-Devices-tab.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nDETAILS FOR PETROFFSOFT LTD.\nUSERS\nDEVICES\nAdd this device\nDevices\nDescription\nSearch\nDescription\n\t\n\n\n\nRows per page\n\n10\n\n0-0 of 0\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add this device",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Description",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "NameName",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BulstatBulstat",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "VAT registration numberVAT registration number",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "CountryCountry",
+          "value": "BULGARIA",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Time zoneTime zone",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "AddressAddress",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accountable person (АP)Accountable person (АP)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bank nameBank name",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "IBANIBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BICBIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone numberPhone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "EmailEmail",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search user by name, username or email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         \n                            Rows per page\n        10\n    \n\n1-2 of 2",
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft",
+        "Description\n\t\n\n\n\nRows per page\n\n10\n\n0-0 of 0",
+        "Description"
+      ]
+    },
+    {
+      "label": "Company-Devices-add-device-dialog",
+      "title": "PetroffCenter",
+      "url": "https://staging.center.petroffsoft.bg/Company/1",
+      "screenshot": "31-Company-Devices-add-device-dialog.png",
+      "text": "PetroffSoft Ltd.\n\nМП\n\nМартин Петров\n\nDETAILS FOR PETROFFSOFT LTD.\nUSERS\nDEVICES\nAdd this device\nDevices\nDescription\nSearch\nDescription\n\t\n\n\n\nRows per page\n\n10\n\n0-0 of 0\n\n \n \n \n\nTerms and conditions\n\nPetroffCenter 1.0.0.0 Copyright @ PetroffSoft Ltd.",
+      "controls": [
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Dashboard",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/ContragentsUpdateRequests",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Roles",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/TaxConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Taxes",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/SystemConfigurations",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Payments",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "",
+          "href": "https://staging.center.petroffsoft.bg/Invoices",
+          "tag": "A",
+          "visible": true
+        },
+        {
+          "text": "Add this device",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Description",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Search",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Sort",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Column options",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "First page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Previous page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Next page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Last page",
+          "href": "",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        {
+          "text": "Terms and conditions",
+          "href": "",
+          "tag": "A",
+          "visible": true
+        }
+      ],
+      "fields": [
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "label": "",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "NameName",
+          "value": "PetroffSoft Ltd.",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BulstatBulstat",
+          "value": "203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "VAT registration numberVAT registration number",
+          "value": "BG203751602",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "CountryCountry",
+          "value": "BULGARIA",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Time zoneTime zone",
+          "value": "Europe/Sofia",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "AddressAddress",
+          "value": "гр. Враца, ул. Цар Борис 1, №12",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Accountable person (АP)Accountable person (АP)",
+          "value": "Мартин Петров",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Bank nameBank name",
+          "value": "ПроКредит Банк ЕАД",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "IBANIBAN",
+          "value": "BG87 PRCB 9230 1048 7922 19",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "BICBIC",
+          "value": "PRCBBGSF",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Phone numberPhone number",
+          "value": "+359885054247",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "EmailEmail",
+          "value": "support@petroffsoft.bg",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "label": "Search user by name, username or email",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "type": "hidden",
+          "label": "10",
+          "value": "10",
+          "disabled": false
+        }
+      ],
+      "tables": [
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         \n                            Rows per page\n        10\n    \n\n1-2 of 2",
+        "Name0\n        Email0\n        Employee position0\n        Roles0\n        \n                            Borislav Nikolov\n         borislav.nikolov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft\n         \n         Мартин Петров\n         martin.petrov@petroffsoft.bg\n         ТЕСТ\n         Базова роля за достъп PetroffSoft",
+        "Description\n\t\n\n\n\nRows per page\n\n10\n\n0-0 of 0",
+        "Description"
+      ]
+    }
+  ],
+  "dialogs": []
+}
