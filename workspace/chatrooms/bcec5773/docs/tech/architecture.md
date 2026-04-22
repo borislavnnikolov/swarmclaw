@@ -1,5 +1,7 @@
 # Architecture
 
+> **Note:** This repository snapshot contains documentation only. The implementation projects, solution files, and source paths referenced below are **not present in this repo**, so this page should be read as an external/inferred architecture summary rather than a repo-verified description of the current workspace contents.
+
 PetroffCenter is a multi-project `.NET 8` solution with an ASP.NET Core API and a Blazor WebAssembly front-end. The UI calls the API (`/api/v1/*`), and the API persists to SQL Server via `TokenServerDbContext`.
 
 ## High-level topology
@@ -16,7 +18,7 @@ PetroffCenter is a multi-project `.NET 8` solution with an ASP.NET Core API and 
 | API | `PetroffSoft.PetroffCenter.Api/` | Controllers under `PetroffSoft.PetroffCenter.Api/Controllers/`; Swagger is enabled in `Development` and `Test`. |
 | Invoice sender | `PetroffSoft.PetroffCenter.InvoiceSenderAF/` | Azure Functions worker; shares service layer and DB access patterns with the API. |
 | Data access | `PetroffSoft.TokenServer.*` projects | Domain/data layer for `TokenServerDbContext` + services used by both API and functions. |
-| Shared | `PetroffSoftPetroffCenter.Shared/` | Shared validators (e.g. `PasswordValidator`). |
+| Shared | `PetroffSoft.PetroffCenter.Shared/` | Shared validators (e.g. `PasswordValidator`). |
 
 ## Authentication & authorization
 

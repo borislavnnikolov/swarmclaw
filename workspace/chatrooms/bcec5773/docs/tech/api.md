@@ -1,8 +1,8 @@
-# API / HTTP reference (as implemented in this repo)
+# API / HTTP reference
 
-This document lists the HTTP requests and routes that are *explicitly driven by the Playwright scripts in this repository*.
+This document lists the HTTP requests and routes that were explicitly observed during the Playwright-driven exploration used to produce this reference.
 
-> Note: The PetroffCenter web application likely performs additional internal API calls (XHR/fetch) while rendering pages. Those backend endpoints are **not** present in this repo and are **not logged** by the current scripts.
+> Note: The PetroffCenter web application likely performs additional internal API calls (XHR/fetch) while rendering pages. Those backend endpoints are **not** documented here and were **not logged** by the capture used for this reference.
 >
 > The sections below **Application Routes** and **Application Data Models** document what Scout's exploration revealed about each page's content, form fields, and known system integrations. This supplements the HTTP capture reference above.
 
@@ -267,7 +267,7 @@ Known keys in staging:
 | Property | Value |
 |---|---|
 | Config key | `CapellaPrintServiceBaseUrlAddress:{instance}` |
-| Observed endpoint | `http://192.168.0.166:7879/api/v1/` |
+| Observed endpoint | `http://<capella-print-host>:<port>/api/v1/` |
 | Protocol | HTTP REST |
 | Scope | Local network (non-public IP) |
 

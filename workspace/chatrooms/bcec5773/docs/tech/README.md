@@ -1,6 +1,19 @@
 # PetroffCenter — Technical documentation
 
-This folder documents the `PetroffSoft.PetroffCenter` solution (API + Blazor WebAssembly UI + supporting services) based on what is implemented in this repository.
+This folder contains technical documentation related to PetroffCenter.
+
+> **Note:** The runnable `.NET` application projects referenced by this documentation (the API, Web UI, Azure Functions worker, shared libraries, and E2E tests) are **not included in this repository**. This repo should be treated as documentation/artifact storage only. The solution files, `.csproj` files, and source code are maintained in a separate repository.
+
+## Scope of this folder
+
+The files in `docs/tech/` describe the PetroffCenter architecture and API at a documentation level. They do **not** provide a buildable local source layout for:
+
+- `PetroffSoft.PetroffCenter.Api`
+- `PetroffSoft.PetroffCenter.WebApp`
+- `PetroffSoft.PetroffCenter.InvoiceSenderAF`
+- `PetroffCenter.Reports`
+- `PetroffSoft.PetroffCenter.Shared`
+- `PetroffSoft.PetroffCenter.E2ETests`
 
 ## Solution overview
 
@@ -10,7 +23,7 @@ This folder documents the `PetroffSoft.PetroffCenter` solution (API + Blazor Web
 | Web UI | `PetroffSoft.PetroffCenter.WebApp/` | Blazor WebAssembly UI (MudBlazor + Fluxor) consuming the API. |
 | Invoice sender | `PetroffSoft.PetroffCenter.InvoiceSenderAF/` | Azure Functions worker for invoice-related background tasks (SendGrid + reporting). |
 | Reports | `PetroffCenter.Reports/` | Reporting-related code used by the UI/services. |
-| Shared | `PetroffSoftPetroffCenter.Shared/` | Shared validators/models used across projects. |
+| Shared | `PetroffSoft.PetroffCenter.Shared/` | Shared validators/models used across projects. |
 | E2E tests | `PetroffSoft.PetroffCenter.E2ETests/` | End-to-end test project. |
 
 ## Prerequisites

@@ -4,7 +4,7 @@
 **Version:** 1.0.0.0  
 **Staging URL:** `https://staging.center.petroffsoft.bg/`  
 **Vendor:** PetroffSoft Ltd.  
-**Framework:** Blazor Server (MudBlazor component library)  
+**Framework:** Blazor WebAssembly (MudBlazor component library)  
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## Architecture Overview
 
-PetroffCenter is a Blazor Server single-page web application. UI rendering occurs server-side via SignalR. Navigation follows a client-side SPA routing pattern on a single host.
+PetroffCenter is a Blazor WebAssembly single-page web application. The UI runs client-side in the browser and communicates with an ASP.NET Core API back-end. Navigation follows a client-side SPA routing pattern.
 
 **UI Framework:** MudBlazor (Material Design)  
 **Observed component selectors:** `.mud-input-control`, `.mud-dialog`, `.mud-table`, `[role=tab]`  
@@ -34,22 +34,11 @@ PetroffCenter is a Blazor Server single-page web application. UI rendering occur
 
 ## Authentication
 
-Authentication is token-based. The application expects a bearer token delivered via **cookies**. The effective cookie name is resolved by the server from the following list (in priority order):
+Authentication is token-based. During staging exploration, authenticated requests were observed to rely on browser-managed session state. This is an environment-specific observation only and should not be interpreted as implementation guidance or a recommended security configuration.
 
-| Cookie name | Notes |
-|---|---|
-| `Authorization` | Standard header name used as cookie |
-| `authorization` | Lowercase variant |
-| `token` | Generic token name |
-| `accessToken` | Camel-case variant |
-| `AccessToken` | Pascal-case variant |
-| `PetroffCookie` | Application-specific name |
-| `PETROFF_accessToken` | Namespaced variant |
-| `PETROFF_accessToken_` | Namespaced variant with trailing underscore |
+For authoritative implementation details, refer to the deployed environment configuration and server-side authentication settings.
 
-**Cookie attributes:** `httpOnly: false`, `secure: true`, `sameSite: Lax`
-
-> The staging token in use had an expiry of 2026-04-21 based on Scout's exploration session.
+> The staging token observed during Scout's exploration session had an expiry of 2026-04-21.
 
 ---
 
@@ -125,7 +114,7 @@ All routes are relative to the base URL `https://staging.center.petroffsoft.bg/`
 
 | Key | Value |
 |---|---|
-| `CapellaPrintServiceBaseUrlAddress:1` | `http://192.168.0.166:7879/api/v1/` |
+| `CapellaPrintServiceBaseUrlAddress:1` | `http://<print-service-host>:<port>/api/v1/` |
 | `CapellaNSSINight...` | *(truncated in capture)* |
 
 ### Company (`POST /Company/0` or `PUT /Company/{id}` — Details tab)
@@ -250,19 +239,21 @@ Payments list columns: `№`, `Amount`, `Payment Status`, `Paid on`, `Reason`, `
 
 ## Exploration Scripts (Scout Artifacts)
 
-Scout created three Playwright-based exploration scripts. All require the env variable `PETROFF_AUTH_TOKEN`.
+Scout created three Playwright-based exploration scripts as external handoff artifacts. They are **not versioned in this repository**. All require the env variable `PETROFF_AUTH_TOKEN`.
+
+The script names and output locations below are included for reference only, based on the Scout delivery artifacts.
 
 ### `explore-petroffcenter.js`
 
 **Purpose:** Initial BG-locale exploration of all main routes.  
-**Output:** `petroffcenter-screenshots/bg/` + `bg/metadata/exploration.json`  
+**Artifact output (external to this repo):** `petroffcenter-screenshots/bg/` + `bg/metadata/exploration.json`  
 **Locale:** `bg-BG`  
 **Routes captured:** `/`, `/Dashboard`, `/ContragentsUpdateRequests`, `/Roles`, `/Taxes`, `/TaxConfigurations`, `/SystemConfigurations`, `/Payments`, `/Companies`, `/Invoices`, `/Profile`, `/SelectContragent`, `/Terms-and-conditions`
 
 ### `explore-petroffcenter-en.js`
 
 **Purpose:** Curated EN-locale exploration including forms, dialogs, and company tabs.  
-**Output:** `petroffcenter-screenshots/en/` + `en/metadata/exploration.json`  
+**Artifact output (external to this repo):** `petroffcenter-screenshots/en/` + `en/metadata/exploration.json`  
 **Locale:** `en-US` with `Accept-Language: en` header **and** `Accept-Language=en` cookie.  
 
 > **Critical note:** Setting only the browser locale is insufficient. The application reads the `Accept-Language` cookie and overrides locale from it. Both the HTTP header and the cookie must be set to `en` to render the UI in English.
