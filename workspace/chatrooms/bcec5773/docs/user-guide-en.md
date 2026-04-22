@@ -39,10 +39,10 @@ The Dashboard is the home screen after login. It shows navigation cards for ever
 
 | Card | What it does |
 |---|---|
-| **Contragent update requests** | Approve or reject contragent update requests |
+| **Contragent Update Requests** | Approve or reject contragent update requests |
 | **Roles** | Create, edit, or delete roles and manage their permissions |
 | **Taxes** | Create, edit, or delete taxes |
-| **Tax configurations** | Create, edit, or delete tax configurations |
+| **Tax Configurations** | Create, edit, or delete tax configurations |
 | **System Configurations** | Create, edit, or delete system configurations |
 | **Payments** | View previous and current payments |
 | **Companies** | Manage registered companies |
@@ -65,7 +65,7 @@ This page lists all requests submitted to update contragent (counterparty) data.
 | Request status | Current status of the request |
 | Date | Date the request was created |
 | Creator user name | Username of the person who submitted the request |
-| Contragent requester | Company that submitted the request |
+| Requesting company | Company that submitted the request |
 | Processing date | Date the request was processed |
 
 ### Filtering
